@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\unifontfactory.o
+./release\charwidget.o
+./release\TaskTreeWidget.o
+./release\exceptiondialog.o
+./release\settingform.o
+./release\taskform.o
+./release\moc_unifontfactory.o
+./release\moc_charwidget.o
+./release\moc_TaskTreeWidget.o
+./release\moc_exceptiondialog.o
+./release\moc_settingform.o
+./release\moc_taskform.o
+./release\qrc_app.o
+);
